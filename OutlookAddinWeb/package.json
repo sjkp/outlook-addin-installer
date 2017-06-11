@@ -1,0 +1,23 @@
+{
+  "name": "kromann-reumert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack-dev-server --content-base . --inline --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^15.0.25",
+    "@types/react-dom": "^15.5.0",
+    "awesome-typescript-loader": "^3.1.3",
+    "office-ui-fabric-react": "^4.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.3.4",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}

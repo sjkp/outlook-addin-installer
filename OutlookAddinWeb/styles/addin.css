@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size:16px;
+    margin: 0;
+}
+
+h4 {
+    border-bottom: 1px solid #666;
+    margin: 15px 0;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
+
+.ms-DocumentCardPreview .ms-Image-image {
+    margin-top: 1px;
+}
+
+.ms-CommandBar-primaryCommands {
+    margin: 0 5px !important;
+}
+
+.details-sheet span {
+    display: inline-block;
+    width: 144px;
+}
+
+.details-sheet > div {
+    padding: 5px 15px 5px;
+}
+
+.details-sheet > div:nth-child(even) {
+    background-color: #f4f4f4
+}
+
+.ms-DocumentCard {
+    max-width:none !important;
+}
